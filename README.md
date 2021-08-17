@@ -1,22 +1,25 @@
-# Next.js blog with comment section
+# bio
 
-This is a demo of how to add a simple comment section to blog post using [Next.js](https://nextjs.org), [Sanity.io](https://www.sanity.io), and [Vercel](https://vercel.com).
+### Hi there, I'm Alex 👋
+
+My Name is <b>Alex Stupak</b>, from Ukraine, city Poltava. I'm a MERN Stack Developer.
+I'm looking Looking forward to utilize my Web Development in a Dynamic Environment. Proficient at web application/mobile development.🧑🏻
 
 
-### Running the front-end
+### My stacks
 
-Rename the `.env.test` file to `.env` and store the environment variables that Next and Sanity will use to pull data from the Sanity API. You can get or create the tokens, ids, and secrets from [manage.sanity.io](https://manage.sanity.io).
-
-Once those env variables are ready, you can run the following commands to get Next's development server up and running:
-
-```bash
-npm install
-
-# Run the frontend
-npm run dev
-
-# Run the Studio
-npm run start:sanity
+```Bug Hunter
+{
+  "front end developmment" : ["ReactJS", "React", "javascript", "jquery", "bootstrap", "css", "html"],
+  "mobile development
+  "backend development"  : ["Nestjs", "Django", "flask", "python", "node js", "nodeJs", "express", "graphql", "restApi"],
+  "integrations": ["zoho CRM", "Zendesk", "monday"], 
+  "testing": ["jest", "selenium"],
+}
 ```
 
-The blog will be running at `http://localhost:3000`, the Studio will run at `http://localhost:3333`.
+- 🔭 I’m currently working as Freelancer 💻 and have a small team of awesome developers
+- 🌱 Ready to help you with your bussines ideas 
+
+
+ps: Also we can help you with your wordpress site (wp)
