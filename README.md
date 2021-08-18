@@ -24,3 +24,6 @@ I'm looking Looking forward to utilize my Web Development in a Dynamic Environme
 
 - 🌱 Ready to help you with your bussines ideas 
 
+Contact us for more information:
+<sale@aleannlab.com>
+
