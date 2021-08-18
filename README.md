@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Alex 👋
 
-<div style="text-align:center; height:100px; weight: 100px"><img src="https://aleannlab.com/wp-content/themes/aleannlab_new/assets/img/aleanlab-logo-white.svg" /></div>.
+<div style="text-align:center; height:100px; weight: 100px" width="100"><img src="https://aleannlab.com/wp-content/themes/aleannlab_new/assets/img/aleanlab-logo-white.svg" /></div>.
 
 I'm CEO of development agency [AleannLab](https://aleannlab.com), Ukraine, city Poltava. 
 I'm looking Looking forward to utilizing my Web Development in a Dynamic Environment. Proficient at web application/mobile development that we provide.🧑🏻
