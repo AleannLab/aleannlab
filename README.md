@@ -26,5 +26,5 @@ I'm looking Looking forward to utilizing my Web Development in a Dynamic Environ
 Contact us for more information:
 <sales@aleannlab.com>
 
-<div style="text-align:center; height:100px; weight: 100px" width="100"><img src="https://aleannlab.com/wp-content/themes/aleannlab_new/assets/img/aleanlab-logo-white.svg" /></div>.
+<div style="text-align:center; height:100px; weight: 100px" width="100"><img src="https://aleannlab.com/assets/img/aleannlab-logo-white.svg" /></div>.
 web development, development, python developers Ukraine, react developers, reactJs development, react native development.
